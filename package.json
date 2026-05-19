@@ -1,0 +1,8 @@
+{
+  "name": "FreshFit",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Build skipped'",
+    "test": "echo 'No tests yet'"
+  }
+}
